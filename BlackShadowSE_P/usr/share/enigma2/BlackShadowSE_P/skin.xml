@@ -84,11 +84,11 @@ skin author: Matrix10
     <alias name="ServiceInfo" font="Regular" size="28" height="32" />
     <alias name="TextNormal" font="Regular" size="30" height="40" />
     <alias name="SelectionList" font="Regular" size="28" height="32" />
-    <alias name="FileListMulti" font="Regular" size="30" height="40" />
+    <!-- <alias name="FileListMulti" font="Regular" size="30" height="40" /> -->
     <alias name="HelpMenuList" font="Regular" size="30" height="50" />
     <alias name="HelpMenuListExt0" font="Regular" size="30" height="75" />
     <alias name="HelpMenuListExt1" font="Regular" size="30" />
-    <alias name="ServiceInfo" font="Regular" size="28" height="32" />
+    <!-- <alias name="ServiceInfo" font="Regular" size="28" height="32" /> -->
     <alias name="VirtualKeyBoard" font="Regular" size="40" height="72" />
   </fonts>
   <parameters>
